@@ -29,6 +29,18 @@
       }
     },
     {
+      "uniqueId": "tlx-product",
+      "name": "Compatible Product",
+      "url": "https://tlx.toki.id/problems/troc-33/D",
+      "source": "TLX",
+      "difficulty": "Easy",
+      "isStarred": true,
+      "tags": ["Modular Arithmetic"],
+      "solutionMetadata": {
+        "kind": "internal"
+      }
+    },
+    {
       "uniqueId": "cf-1279D",
       "name": "Santa's Bot",
       "url": "https://codeforces.com/contest/1279/problem/D",
